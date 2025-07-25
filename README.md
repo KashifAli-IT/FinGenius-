@@ -1,7 +1,3 @@
-# FinGenius-
-
-
-````markdown
 # 💰 FinGenius – Your Smart Finance Buddy (Hackathon Project)
 
 FinGenius is a Generative AI-powered personal finance assistant designed specifically for users in Pakistan. Built during the Pak Angels GenAI Hackathon, it empowers users to manage money smarter — set savings goals, track spending, get financial advice, and receive smart reminders, all with a friendly chatbot interface.
