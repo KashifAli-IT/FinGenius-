@@ -83,7 +83,7 @@ Powered by Aspire Pakistan
 
 ---
 
-## 👨‍💻 Team KULYAE (Rearranged Name Pending)
+## 👨‍💻 Team WalletArc
 
 Team lead: [Kashif Ali](https://www.linkedin.com/in/kashif-ali-arain)
 QUEST Nawabshah – 6th Semester BSIT Student
